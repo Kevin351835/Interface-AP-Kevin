@@ -1,0 +1,1 @@
+Saya memilih interface dikarekan interface dapat melakukan pewarisan Ganda, sehingga bisa mengimplementasikan banyak interface sekaligus. Ini yang memungkinkan objek memiliki banyak peran(Seperti: kelas Employee bisa menjadi payable sekaligus Discountable)
